@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="TestNG" thread-count="">
+    <groups>
+        <run>
+            <include name="functional"></include>
+        </run>
+    </groups>
+    <test name="Grouping in testng">
+        <classes>
+            <class name="testEmployeeServices.CheckServicesTest"></class>
+        </classes>
+    </test>
+
+</suite>

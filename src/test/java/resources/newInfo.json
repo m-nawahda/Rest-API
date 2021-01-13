@@ -1,0 +1,7 @@
+[
+  {"id": 4, "firstName" : "Ehab", "lastName" : "Afaneh","salary" : 1900},
+  {"id": 10, "firstName" : "john", "lastName" : "Wick","salary" : 2500},
+  {"id": 9, "firstName" : "Ibrahim", "lastName" : "Bsharat","salary" : 3500},
+  {"id": 5, "firstName" : "Omar", "lastName" : "Salameh","salary" : 4500},
+  {"id": 8, "firstName" : "Issam", "lastName" : "Nawahda","salary" : 5500}
+]

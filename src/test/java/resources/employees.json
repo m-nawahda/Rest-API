@@ -1,0 +1,12 @@
+[
+  {"id": 2, "firstName" : "John", "lastName" : "Wick","salary" : 2400},
+  {"id": 3, "firstName" : "Ibrahim", "lastName" : "Bsharat","salary" : 2600},
+  {"id": 4, "firstName" : "Salah", "lastName" : "Badawi","salary" : 1000},
+  {"id": 5, "firstName" : "Amr", "lastName" : "Dwaikat","salary" : 4500},
+  {"id": 6, "firstName" : "Nael", "lastName" : "Saleh","salary" : 5500},
+  {"id": 7, "firstName" : "Baraa", "lastName" : "Arda","salary" : 1500},
+  {"id": 8, "firstName" : "Omar", "lastName" : "Salameh","salary" : 3000},
+  {"id": 9, "firstName" : "Badawi", "lastName" : "Wawi","salary" : 1200},
+  {"id": 10, "firstName" : "Ehab", "lastName" : "Afaneh","salary" : 5600},
+  {"id": 11, "firstName" : "Issam", "lastName" : "Nawahda","salary" : 1000}
+]
